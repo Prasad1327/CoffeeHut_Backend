@@ -12,7 +12,7 @@
 
  ### User Profile
  
-  *Loyalty Program Integration:*
+-  *Loyalty Program Integration:*
  - Introduced a loyalty system to track user points.
  - Implemented logic for awarding and redeeming loyalty points.
  - Users can redeem loyalty points for discounts on purchases.
