@@ -1,6 +1,6 @@
  # List of Features 
 
-### Payment Options
+ ### Payment Options
 
 - *Coffehut_Wallet:*
   - Introduced a loyalty program for loyal customers.
@@ -12,7 +12,8 @@
 
  ### User Profile
  
--  *Loyalty Program Integration:*
-  - Introduced a loyalty system to track user points.
-  - Implemented logic for awarding and redeeming loyalty points.
-  - Users can redeem loyalty points for discounts on purchases.
+ - *Loyalty Program Integration:*
+   - Introduced a loyalty system to track user points.
+   - Implemented logic for awarding and redeeming loyalty points.
+   - Users can redeem loyalty points for discounts on purchases.
+ 
